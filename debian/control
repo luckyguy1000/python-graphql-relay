@@ -1,0 +1,25 @@
+Source: python-graphql-relay
+Section: python
+Priority: optional
+Maintainer: Sophie Brun <sophie@freexian.com>
+Build-Depends: debhelper (>= 9),
+               python3-all,
+               python3-setuptools,
+               python3-six,
+               python3-pytest,
+               python3-graphql-core,
+               python3-promise
+Standards-Version: 3.9.8
+Homepage: https://github.com/graphql-python/graphql-relay-py
+X-Python3-Version: >= 3.3
+Vcs-Git: git://git.kali.org/packages/python-graphql-relay.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/python-graphql-relay.git;a=summary
+
+Package: python3-graphql-relay
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description:  Relay Library for GraphQL Python 3
+ This package contains a library to help construct a graphql-py server
+ supporting react-relay. 
+ .
+ This package installs the library for Python 3.

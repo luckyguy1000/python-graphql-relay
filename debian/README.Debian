@@ -1,0 +1,10 @@
+python-graphql-relay for Debian
+-------------------------------
+
+We don't build binary package python-graphql-relay for Python2:
+It depends on python*-promise which has no working Python 2 version.
+
+This Python module is required needed by Python modules graphene. They are
+used only forfor king-phisher which only supports Python 3.
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 28 Mar 2017 11:31:16 +0200
