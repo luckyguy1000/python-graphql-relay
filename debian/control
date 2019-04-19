@@ -1,7 +1,7 @@
 Source: python-graphql-relay
 Section: python
 Priority: optional
-Maintainer: Sophie Brun <sophie@freexian.com>
+Maintainer: Kali Developers <devel@kali.org>
 Build-Depends: debhelper (>= 9),
                python3-all,
                python3-setuptools,
