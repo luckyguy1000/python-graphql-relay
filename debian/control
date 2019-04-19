@@ -12,8 +12,8 @@ Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.8
 Homepage: https://github.com/graphql-python/graphql-relay-py
 X-Python3-Version: >= 3.3
-Vcs-Git: git://git.kali.org/packages/python-graphql-relay.git
-Vcs-Browser: http://git.kali.org/gitweb/?p=packages/python-graphql-relay.git;a=summary
+Vcs-Git: https://gitlab.com/kalilinux/packages/python-graphql-relay.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/python-graphql-relay
 
 Package: python3-graphql-relay
 Architecture: all
