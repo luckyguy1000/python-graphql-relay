@@ -7,6 +7,8 @@ python-graphql-relay (2.0.0-0kali1) kali-dev; urgency=medium
 
   [ Sophie Brun ]
   * New upstream version 2.0.0
+  * Fix lintian warnings
+  * Add autopkgtest
 
  -- Sophie Brun <sophie@offensive-security.com>  Mon, 19 Aug 2019 11:28:52 +0200
 
