@@ -3,15 +3,15 @@ Section: python
 Priority: optional
 Maintainer: Kali Developers <devel@kali.org>
 Build-Depends: debhelper (>= 9),
+               dh-python,
                python3-all,
                python3-setuptools,
                python3-six,
                python3-pytest,
                python3-graphql-core,
                python3-promise
-Standards-Version: 3.9.8
+Standards-Version: 4.4.0
 Homepage: https://github.com/graphql-python/graphql-relay-py
-X-Python3-Version: >= 3.3
 Vcs-Git: https://gitlab.com/kalilinux/packages/python-graphql-relay.git
 Vcs-Browser: https://gitlab.com/kalilinux/packages/python-graphql-relay
 
