@@ -19,7 +19,7 @@ Testsuite: autopkgtest-pkg-python
 Package: python3-graphql-relay
 Architecture: all
 Depends: ${python3:Depends}, ${misc:Depends}
-Description:  Relay Library for GraphQL Python 3
+Description: Relay Library for GraphQL Python 3
  This package contains a library to help construct a graphql-py server
  supporting react-relay.
  .
