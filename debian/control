@@ -10,7 +10,7 @@ Build-Depends: debhelper-compat (= 12),
                python3-pytest,
                python3-graphql-core (>= 2.2),
                python3-promise
-Standards-Version: 4.4.0
+Standards-Version: 4.5.0
 Homepage: https://github.com/graphql-python/graphql-relay-py
 Vcs-Git: https://gitlab.com/kalilinux/packages/python-graphql-relay.git
 Vcs-Browser: https://gitlab.com/kalilinux/packages/python-graphql-relay
