@@ -1,2 +1,4 @@
 version=4
-https://pypi.debian.net/graphql-relay-py/graphql-relay-py-(.+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/python-graphql-relay-$1\.tar\.gz/ \
+  https://github.com/graphql-python/graphql-relay-py/tags .*/v?(\d\S*)\.tar\.gz
