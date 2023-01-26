@@ -1,3 +1,16 @@
+python-graphql-relay (2.0.0-0kali2) kali-dev; urgency=medium
+
+  [ Ben Wilson ]
+  * Update email address
+  * Add Uploaders
+
+  [ Steev Klimaszewski ]
+  * Update d/watch to point to github repository.
+  * Update standards version to 4.6.2, no changes needed.
+  * Prepare for Release
+
+ -- Steev Klimaszewski <steev@kali.org>  Thu, 26 Jan 2023 15:31:58 -0600
+
 python-graphql-relay (2.0.0-0kali1) kali-dev; urgency=medium
 
   [ Raphaël Hertzog ]
